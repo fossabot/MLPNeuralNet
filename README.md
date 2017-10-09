@@ -1,4 +1,5 @@
 [![Build Status](https://travis-ci.org/nikolaypavlov/MLPNeuralNet.svg?branch=master)](https://travis-ci.org/nikolaypavlov/MLPNeuralNet)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FMLPNeuralNet.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FMLPNeuralNet?ref=badge_shield)
 
 # MLPNeuralNet
 Fast [multilayer perceptron](http://en.wikipedia.org/wiki/Multilayer_perceptron) neural network library for iOS and Mac OS X. MLPNeuralNet predicts new examples by trained neural network. It is built on top of the [Apple's Accelerate Framework](https://developer.apple.com/library/ios/documentation/Accelerate/Reference/AccelerateFWRef/_index.html), using vectorized operations and hardware acceleration if available.
@@ -133,3 +134,6 @@ Maintainer: [Mykola Pavlov](http://github.com/nikolaypavlov/) (me@nikolaypavlov.
 MLPNeuralNet is available under the BSD license. See the LICENSE file for more info.
 
 > Written with [StackEdit](http://benweet.github.io/stackedit/).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FMLPNeuralNet.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FMLPNeuralNet?ref=badge_large)
